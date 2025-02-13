@@ -1,4 +1,4 @@
-<h1 align="left">Hey I'M JUAN PA 👋 I like programming and discovering new things.</h1>
+<h1 align="left">Hey I'M Juan Pablo Lopez 👋 I like programming and discovering new things.</h1>
 
 ###
 
